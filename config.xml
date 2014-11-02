@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.growlab.projects" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Projects</name>
+    <description>
+        Growlab Project App, sample application to track time in projects
+    </description>
+    <author email="gioacchino@growlab.it" href="http://www.growlab.it">
+        Growlab Development Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
